@@ -1,0 +1,7 @@
+C:\vs2010\WinProj_Generics\WinProj_Generics\bin\Debug\WinProj_Generics.exe
+C:\vs2010\WinProj_Generics\WinProj_Generics\bin\Debug\WinProj_Generics.pdb
+C:\vs2010\WinProj_Generics\WinProj_Generics\obj\x86\Debug\WinProj_Generics.Form1.resources
+C:\vs2010\WinProj_Generics\WinProj_Generics\obj\x86\Debug\WinProj_Generics.Properties.Resources.resources
+C:\vs2010\WinProj_Generics\WinProj_Generics\obj\x86\Debug\WinProj_Generics.csproj.GenerateResource.Cache
+C:\vs2010\WinProj_Generics\WinProj_Generics\obj\x86\Debug\WinProj_Generics.exe
+C:\vs2010\WinProj_Generics\WinProj_Generics\obj\x86\Debug\WinProj_Generics.pdb
